@@ -20,7 +20,10 @@
  * Time: 15:57
  */
 
+print "HELLO";
+
 phpinfo();
+
 
 ?>
 
