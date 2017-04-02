@@ -8,7 +8,7 @@
 <body>
 <table border="1">
     <tr>
-        <td>phpschol - lesson 1</td>
+        <td>phpschol - lesson 1 - git test</td>
     </tr>
 </table>
 
